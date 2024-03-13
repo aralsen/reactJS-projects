@@ -2,6 +2,8 @@
 
 In React, a component is a reusable and self-contained piece of code that represents a part of a user interface (UI). Components serve as the fundamental building blocks of a React application, encapsulating both the logic and UI elements specific to a particular part of the application.
 
+React component names must always start with a capital letter, while HTML tags must be lowercase.
+
 # Styling React Components with CSS
 
 When styling React components, there are various methods to choose from, each with its own advantages. In this guide, we'll explore three common approaches: External Stylesheets, CSS Modules, and Inline Styles.
