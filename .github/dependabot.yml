@@ -4,5 +4,3 @@ updates:
     directory: "/reactJS-projects"
     schedule:
       interval: "daily"
-    automerge:
-      security: true
